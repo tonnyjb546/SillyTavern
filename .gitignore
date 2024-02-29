@@ -20,7 +20,7 @@ public/stats.json
 /uploads/
 *.jsonl
 /config.conf
-/config.yaml
+#/config.yaml
 /config.conf.bak
 /docker/config
 .DS_Store
